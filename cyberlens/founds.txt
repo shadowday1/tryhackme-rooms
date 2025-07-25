@@ -1,0 +1,17 @@
+under Cyberlens-Management: 
+
+CyberLens
+HackSmarter123
+
+
+------------------------------------------
+
+the Modules that i use:
+
+user flag:
+  	windows/http/apache_tika_jp2_jscript
+
+finding vuln for eleevated access:
+      	/multi/recon/local_exploit_suggester 
+
+	windows/local/always_install_elevated

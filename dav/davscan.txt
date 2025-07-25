@@ -1,0 +1,8 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-09 03:17 EDT
+Nmap scan report for 10.10.89.138
+Host is up (0.059s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.16 seconds

@@ -1,0 +1,19 @@
+ telnet 10.10.34.107 5038                              
+Trying 10.10.34.107...
+Connected to 10.10.34.107.
+Escape character is '^]'.
+Asterisk Call Manager/2.10.6
+
+
+
+
+bail2ben:
+uid=1001(asterisk) gid=1001(asterisk) groups=1001(asterisk)
+
+
+
+
+--------------sourcess--------------------
+
+
+https://medium.com/@jamesjarviscyber/tryhackme-billing-walkthrough-write-up-4746e548b661 
